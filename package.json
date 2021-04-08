@@ -11,5 +11,8 @@
 		"url": "callbacks"
 	},
 	"author": "George Cornea",
-	"license": "ISC"
+	"license": "ISC",
+	"dependencies": {
+		"superagent": "^6.1.0"
+	}
 }
